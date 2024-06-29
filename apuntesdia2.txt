@@ -5,3 +5,6 @@ seguimos viendo como funciona el remote
 probando push desde gitkraken
 
 cambio desde el repositorio remoto
+
+
+modificando en remoto direcatamente
