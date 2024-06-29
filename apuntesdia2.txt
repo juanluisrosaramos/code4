@@ -1,3 +1,5 @@
 primeras notas del día trabajando en remoto
 
 seguimos viendo como funciona el remote
+
+probando push desde gitkraken
